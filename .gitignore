@@ -1,0 +1,15 @@
+system_ext/priv-app/Settings/Settings.apk
+modem.img
+product/app/MiMediaEditor/MiMediaEditor.apk
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/data-app/SuperWallpaperSnowmountain/SuperWallpaperSnowmountain.apk
+product/data-app/SuperWallpaperMars/SuperWallpaperMars.apk
+product/data-app/SuperWallpaperEarth/SuperWallpaperEarth.apk
+product/priv-app/MiBrowser/MiBrowser.apk
+product/priv-app/MiuiCamera/MiuiCamera.apk
+product/priv-app/MiAICR/MiAICR.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk
+product/priv-app/GmsCore/GmsCore.apk
+vendor/lib64/mt6897/libaibc_tuning_p2.so
+vendor/lib64/mt6897/libaibc_tuning.so

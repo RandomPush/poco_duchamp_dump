@@ -1,0 +1,14 @@
+# missi-user 15 AP3A.240905.015.A2 OS2.0.0.11.VNLCNXM release-keys
+- manufacturer: xiaomi
+- platform: commonmt6897
+- codename: duchamp
+- flavor: missi-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: OS2.0.0.11.VNLCNXM
+- tags: release-keys
+- fingerprint: Redmi/duchamp/duchamp:14/UP1A.230905.011/OS2.0.0.11.VNLCNXM:user/release-keys
+- is_ab: true
+- brand: POCO
+- branch: missi-user-15-AP3A.240905.015.A2-OS2.0.0.11.VNLCNXM-release-keys
+- repo: poco_duchamp_dump

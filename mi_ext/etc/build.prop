@@ -1,0 +1,6 @@
+ro.thermal.iec.enable=true
+ro.miui.build.region=cn
+ro.mi.os.version.publish=false
+ro.mi.os.version.code=2
+ro.mi.os.version.name=OS2.0
+ro.mi.os.version.incremental=OS2.0.0.11.VNLCNXM
